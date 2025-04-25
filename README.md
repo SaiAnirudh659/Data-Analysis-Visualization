@@ -2,6 +2,9 @@
 
 This repository contains a step-by-step project focused on real-world data analysis and visualization using Python libraries like Pandas, Matplotlib, Seaborn, and Plotly.
 
+📄 [Download Project Summary (PDF)](./Data_Analysis_Visualization_Project_Summary.pdf)
+
+
 ## 📌 Project Structure
 - Step-by-step implementation
 - Exploratory Data Analysis (EDA)
