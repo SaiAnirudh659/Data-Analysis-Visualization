@@ -4,6 +4,12 @@ This repository contains a step-by-step project focused on real-world data analy
 
 📄 [Download Project Summary (PDF)](./Data_Analysis_Visualization_Project_Summary.pdf)
 
+## 📄 Project Files
+
+- [📘 PDF Project Summary](./Data_Analysis_Visualization_Project_Summary.pdf)
+- [📊 PowerPoint Slides](./Data_Analysis_Visualization_Project_Slides.pptx)
+
+
 
 ## 📌 Project Structure
 - Step-by-step implementation
